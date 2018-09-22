@@ -1,0 +1,5 @@
+c:\users\mani\documents\visual studio 2010\Projects\simplecalculator\simplecalculator\bin\Debug\simplecalculator.exe
+c:\users\mani\documents\visual studio 2010\Projects\simplecalculator\simplecalculator\bin\Debug\simplecalculator.pdb
+c:\users\mani\documents\visual studio 2010\Projects\simplecalculator\simplecalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mani\documents\visual studio 2010\Projects\simplecalculator\simplecalculator\obj\x86\Debug\simplecalculator.exe
+c:\users\mani\documents\visual studio 2010\Projects\simplecalculator\simplecalculator\obj\x86\Debug\simplecalculator.pdb
